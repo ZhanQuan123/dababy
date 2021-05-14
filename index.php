@@ -1,5 +1,5 @@
 <?php
 
-include_once("Dababygenerator.html");
+include_once("DababyGenerator.html");
 
 ?>
